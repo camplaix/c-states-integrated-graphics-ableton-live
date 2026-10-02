@@ -4,7 +4,7 @@ title: "State of Things: DAW Low Latency, C-States and Discrete vs. Integrated G
 
 # State of Things: DAW Low Latency, C-States and Discrete vs. Integrated Graphics
 
-*Originally published on [Gearspace](https://gearspace.com/threads/state-of-things-daw-low-latency-c-states-and-discrete-integrated-graphics-benchmark.1302028/), March 2020 (last edited April 2020).*
+*Originally published on [Gearspace](https://gearspace.com/threads/state-of-things-daw-low-latency-c-states-and-discrete-integrated-graphics-benchmark.1302028/), March 2020.*
 
 Thanks first to DAW PLUS, Vin and UnderTow on Gearspace, whose work helped clarify the almost inscrutable and ever-changing question of low-latency DAW behaviour and performance, and inspired these tests.
 
