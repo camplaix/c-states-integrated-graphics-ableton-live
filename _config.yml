@@ -1,0 +1,2 @@
+title: "State of Things: DAW Low Latency, C-States and Discrete vs. Integrated Graphics"
+description: "Ableton Live 10 and Studio One 4 at 64 samples on an i7 8700K: C-States, Ableton's GDI backend flag, and Intel UHD 630 vs. AMD vs. NVIDIA graphics"
